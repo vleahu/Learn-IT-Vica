@@ -1,0 +1,28 @@
+#Header{
+  background-color: #045FB4;
+}
+#logo{
+  font-size: 50px;
+  font-family: Comic Sans MS;
+  color: white;
+}
+p {
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 25px;
+}
+#menu{
+   float: left;
+}
+#menu a {
+  font-size: 25px;
+  font-family: Comic Sans MS;
+  text-decoration: none;
+  color: #000;
+  padding-right: 25px;
+}
+ul {
+  padding-left: 10%;
+    padding-right: 10%;
+    
+}
